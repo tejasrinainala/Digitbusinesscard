@@ -12,7 +12,8 @@ body
     margin:0 auto;
     width:400px;
     padding:20px;
-    justify-content:center;
+    display:flex;
+    justify-content:space-around;
     background:#FF7096;
     color:black;
     border-bottom:#FF0A54;
